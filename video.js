@@ -38,7 +38,6 @@ function camera() {
 window.onload = function () {
     timerCallback();
 }
-
 function timerCallback() {
     if (isReady()) {
         setResolution();
